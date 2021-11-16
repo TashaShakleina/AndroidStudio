@@ -25,3 +25,6 @@ ADB HW_1
  7. Удалить приложение todolist с телефона через ADB 
  --- ./adb uninstall com.android.todolist
 
+*подключение через WiFi
+--- ./adb tcpip 5555
+    ./adb connect 192.168.0.208     <- ip адрес телефона
