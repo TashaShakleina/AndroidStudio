@@ -1,1 +1,1 @@
-For Android Stuio homeworks
+For homeworks
